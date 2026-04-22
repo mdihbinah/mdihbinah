@@ -3,18 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdihbinah&label=Profile%20views&color=0e75b6&style=flat" alt="mdihbinah" /> </p>
 
-- 🔭 I’m currently working on [DigiTools](https://github.com/mdihbinah/Assignment-06)
+- 🔭 I’m currently working on [KeenKeeper](https://github.com/mdihbinah/Assignment-07)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Next Js**
 
 - 📫 How to reach me **mdihbinah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mdihbinah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdihbinah" height="30" width="40" /></a>
-<a style="background-color:white" href="https://www.codechef.com/users/mdihbinah" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdihbinah" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mdihbinah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mdihbinah" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdihbinah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdihbinah" height="30" width="40" /></a>
+<a style="background-color:white" href="https://www.codechef.com/users/mdihbinah" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdihbinah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
