@@ -20,20 +20,16 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mdihbinah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mdihbinah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <!-- <a href="mailto:https://codeforces.com/profile/mdihbinah">
-    <img src="https://img.shields.io/badge/Leetcode-FF4000?style=for-the-badge&logo=codeforces&logoColor=blue"/>
-  <a href="mailto:https://leetcode.com/u/mdihbinah" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-ED7222?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <a href="mailto:https://www.codechef.com/users/mdihbinah" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-032528?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a> -->
+  <a href="mailto:https://wa.me/+8801403345532">
+    <img src="https://img.shields.io/badge/Whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
   <a href="https://www.facebook.com/profile.php?id=61584136511162" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -43,14 +39,14 @@
 
 ## 🛠️ Skills
 
-### 🔥 Languages
+### 💻 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,expressjs" />
 </p>
 
 
-### 🔥 Tools
+### 🔧 Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,git,github" />
@@ -94,21 +90,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mdihbinah&theme=radical" />
-</p>
-
----
-
-## 👀 Visitor Count
-
-
-
----
-
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdihbinah&layout=compact&theme=tokyonight&langs_count=8"
-    alt="Top Languages"
-  />
 </p>
