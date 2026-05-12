@@ -1,10 +1,32 @@
-# Hi 👋, I'm Md. Imam Hossain
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  flex-wrap: wrap;
+">
+  
+  <!-- Left: Title -->
+  <p style="
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    background: linear-gradient(-180deg, #6366f1, #ec4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
+    Hi 👋, I'm Md. Imam Hossain
+  </p>
+
+  <!-- Right: Visitor badge -->
+  <p style="margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=mdihbinah&color=EF3A54&style=flat-square" />
+  </p>
+
+</div>
 ![Devel oper Banner 10](https://ishan-rest.vercel.app/svg/banner/dev10/Imam_Hossain/Learner_and_Problem_Solver)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0643F1&size=30&center=true&vCenter=true&width=600&lines=Front-End+Developer;Learning+JavaScript+React+Next.js;Building+Responsive+User+Interfaces;Future+Front-End+Developer" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdihbinah&color=EF3A54&style=flat-square" />
 </p>
 
 ---
