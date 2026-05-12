@@ -1,13 +1,13 @@
-<p style="
+<div style="
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
   flex-wrap: wrap;
 ">
-  
+
   <!-- Left: Title -->
-  <p style="
+  <div style="
     font-size: 32px;
     font-weight: 800;
     margin-bottom: 10px;
@@ -16,14 +16,14 @@
     -webkit-text-fill-color: transparent;
   ">
     Hi 👋, I'm Md. Imam Hossain
-  </p>
+  </div>
 
   <!-- Right: Visitor badge -->
-  <p style="margin-top: 20px;">
+  <div style="margin-top: 20px;">
     <img src="https://komarev.com/ghpvc/?username=mdihbinah&color=EF3A54&style=flat-square" />
-  </p>
+  </div>
 
-</p>
+</div>
 
 
 ![Devel oper Banner 10](https://ishan-rest.vercel.app/svg/banner/dev10/Imam_Hossain/Learner_and_Problem_Solver)
