@@ -1,4 +1,4 @@
-<div style="
+<p style="
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -23,7 +23,7 @@
     <img src="https://komarev.com/ghpvc/?username=mdihbinah&color=EF3A54&style=flat-square" />
   </p>
 
-</div>
+</p>
 
 
 ![Devel oper Banner 10](https://ishan-rest.vercel.app/svg/banner/dev10/Imam_Hossain/Learner_and_Problem_Solver)
