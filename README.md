@@ -1,21 +1,7 @@
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h2 style="
-        background: linear-gradient(-180deg, #6366f1, #ec4899);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        margin: 0;
-      ">
-        Hi 👋, I'm Md. Imam Hossain
-      </h2>
-    </td>
-
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=mdihbinah&color=EF3A54&style=flat-square" />
-    </td>
-  </tr>
-</table>
+# Hi 👋, I'm Md. Imam Hossain
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdihbinah&color=EF3A54&style=flat-square" />
+</p>
 
 
 ![Devel oper Banner 10](https://ishan-rest.vercel.app/svg/banner/dev10/Imam_Hossain/Learner_and_Problem_Solver)
