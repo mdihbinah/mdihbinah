@@ -1,29 +1,21 @@
-<div style="
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 20px;
-  flex-wrap: wrap;
-">
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h2 style="
+        background: linear-gradient(-180deg, #6366f1, #ec4899);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin: 0;
+      ">
+        Hi 👋, I'm Md. Imam Hossain
+      </h2>
+    </td>
 
-  <!-- Left: Title -->
-  <div style="
-    font-size: 32px;
-    font-weight: 800;
-    margin-bottom: 10px;
-    background: linear-gradient(-180deg, #6366f1, #ec4899);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
-    Hi 👋, I'm Md. Imam Hossain
-  </div>
-
-  <!-- Right: Visitor badge -->
-  <div style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=mdihbinah&color=EF3A54&style=flat-square" />
-  </div>
-
-</div>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=mdihbinah&color=EF3A54&style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 
 ![Devel oper Banner 10](https://ishan-rest.vercel.app/svg/banner/dev10/Imam_Hossain/Learner_and_Problem_Solver)
